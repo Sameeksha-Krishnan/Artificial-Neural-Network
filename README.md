@@ -1,2 +1,2 @@
 # Artificial-Neural-Network
-To predict based on a given customer dataset of a bank whether a customer has exited or not
+Based on a given customer dataset of a bank predict whether a customer has exited the bank or not
